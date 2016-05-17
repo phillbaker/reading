@@ -4,7 +4,9 @@ In the mode of [the distributed systems reading list](https://dancres.github.io/
 
 ### How to use this list
 
-In order to account for different learning styles, it's suggested that after reading these articles, you discuss them with someone or a group. While summarizing the article is good (what did it say), what we're really interested in is analyzing the article. Here are some good discussion starters or notes to bring to a discussion:
+In order to account for different learning styles, it's suggested that after reading these articles, you discuss them with someone or a group. While summarizing the article is good (what did it say), what we're really interested in is _analyzing_ the article.
+
+A good way to take notes is to fork this repository, and add bullet points notes after each article. Here are some good discussion starters or notes to bring to a discussion:
 
 * Of the points made in the article, what were the three most important and why? How are they connected or how are they dissimilar?
 * What wasn't clear? What questions do you have?
@@ -14,7 +16,7 @@ In order to account for different learning styles, it's suggested that after rea
 
 To prepare for the discussion, if you're a:
 * visual learner, try making tables or venn-diagrams or other charts of these categories or pros/cons,
-* auditory learner, try talking these questions through with someone, 
+* auditory learner, try talking these questions through with someone,
 * reading/writing learner, try making an outline of your thoughts,
 * kinesthetic learner, base your notes off of your recent experienes and examples.
 
@@ -30,7 +32,7 @@ Some of the viewpoints expressed will be controversial, outdated or crazy - that
 * Pragmatic Programmer
 * Release It
 
-## Essays 
+## Essays
 
 _Aka "blog posts"_
 
@@ -69,13 +71,13 @@ _Aka "blog posts"_
 * [What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320)
  * Greg Wilson both summarizes peer-reviewed research on software development and advocates for doing science about our profession.
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy), [slides](https://github.com/matthiasn/talk-transcripts/tree/master/Hickey_Rich/SimpleMadeEasy)
- * Rich Hickey discusses simplicity's virtues over easiness'. He showes that while many choose easiness they may end up with complexity, and the better way is to choose easiness along the simplicity path. 
-* [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw) 
+ * Rich Hickey discusses simplicity's virtues over easiness'. He showes that while many choose easiness they may end up with complexity, and the better way is to choose easiness along the simplicity path.
+* [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw)
  * Richard Hamming shares his observations on "why do so few scientists make significant contributions and so many are forgotten in the long run?" Some of the key ideas include: courage, luck, drive, a focus on important problems, open doors, and selling the work.
 * [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
  * Josh Bloch examines what makes a good (programmtic) API and practices to design them.
 
-# Slides
+## Slides
 
 * [Billion User Load Balancer](https://www.usenix.org/sites/default/files/conference/protected-files/srecon15europe_slides_shuff.pdf)
  * Patrick Shuff talks about Facebook's multi-tiered network.
@@ -84,7 +86,7 @@ _Aka "blog posts"_
 * [10 Deploys Per Day](http://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr)
  * In this oldie-but-goodie, John Allspaw talks about some of the fundamental good practices around deployment.
 
-# Why
+## Why
 
 Here are three reasons to spend time out of your busy schedule doing some reading/watching:
 
@@ -92,8 +94,18 @@ Here are three reasons to spend time out of your busy schedule doing some readin
 * self-improvement: everyone makes mistakes or has gaps in their skillset. Even the best are still learning and improving.
 * career growth: tomorrow's bigger and harder challenges will require new skills. Think about this preparation for handling something an order of magnitude harder.
 
-# Links
+## Related
 
 * https://github.com/mmcgrana/services-engineering/
 * https://github.com/JanVanRyswyck/awesome-talks
 * http://danluu.com/programming-blogs/
+
+# Contributing
+
+Please contribute good articles back to this list!
+
+1. Fork it ( https://github.internal.digitalocean.com/phillip/reading/fork )
+2. Create your feature branch off of origin/master (`git checkout -b my-new-feature origin/master`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
