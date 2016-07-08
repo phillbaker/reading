@@ -42,6 +42,8 @@ _Aka "blog posts"_
  * Joel Spolsky describes how abstractions are imperfect and underlying implementation details sneak through.
 * [MonolithFirst](http://martinfowler.com/bliki/MonolithFirst.html)
  * Martin Fowler discusses the tradeoffs of microservices vs. monoliths
+* [Failing at Microservices.](https://rclayton.silvrback.com/failing-at-microservices)
+ * Richard Clayton describes a lot of the common challenges involved in implementing a popular strategy.
 * [Egoless Programming](http://blog.codinghorror.com/egoless-programming-you-are-not-your-job/)
  * Jeff Atwood reminds us that "you are not your code".
 * [Applying cardiac alarm management techniques to your on-call](http://fractio.nl/2014/08/26/cardiac-alarms-and-ops/)
