@@ -62,7 +62,7 @@ _Aka "blog posts"_
  * Dan McKinley argues that constraints can drive creativity.
 * [Lessons learned from reading postmortems](http://danluu.com/postmortem-lessons/)
  * Dan Luu does science on some of the largest mistakes in the industry.
-* [](https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b) (really 2 separate articles, the jira ticket part is more manager-y vs. the perf. metrics)
+* [How One Jira Ticket Made My Employer $1MM/Month](https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b) (really 2 separate articles, the jira ticket part is more manager-y vs. the perf. metrics)
 * [Why I Love Reading Other People’s Code And You Should Too](http://www.skorks.com/2010/05/why-i-love-reading-other-peoples-code-and-you-should-too/)
  * Alan Skorkin points out that before mastering something we have to see a lot of examples.
 * [A Codebase is an Organism](http://www.meltingasphalt.com/a-codebase-is-an-organism/)
