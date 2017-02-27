@@ -67,6 +67,8 @@ _Aka "blog posts"_
  * Alan Skorkin points out that before mastering something we have to see a lot of examples.
 * [A Codebase is an Organism](http://www.meltingasphalt.com/a-codebase-is-an-organism/)
  *  Since [codebases inevitably grow over time](https://www.computer.org/csdl/mags/so/2015/02/mso2015020010.pdf), Kevin Simler looks at how to manage that growth.
+* [How to ask good questions](http://jvns.ca/blog/good-questions/)
+ * Julia Evans dissects the art of asking a question - although there may be "no such thing as a stupid question", there certainly are poorly asked ones.
 
 ## Videos
 
