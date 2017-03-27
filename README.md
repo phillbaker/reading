@@ -37,58 +37,58 @@ Some of the viewpoints expressed will be controversial, outdated or crazy - that
 _Aka "blog posts"_
 
 * [On Being A Senior Engineer](http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
- * John Allspaw gives examples of the difference between maturity and seniority in a profession.
+  * John Allspaw gives examples of the difference between maturity and seniority in a profession.
 * [The Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)
- * Joel Spolsky describes how abstractions are imperfect and underlying implementation details sneak through.
+  * Joel Spolsky describes how abstractions are imperfect and underlying implementation details sneak through.
 * [MonolithFirst](http://martinfowler.com/bliki/MonolithFirst.html)
- * Martin Fowler discusses the tradeoffs of microservices vs. monoliths
+  * Martin Fowler discusses the tradeoffs of microservices vs. monoliths
 * [Failing at Microservices.](https://rclayton.silvrback.com/failing-at-microservices)
- * Richard Clayton describes a lot of the common challenges involved in implementing a popular strategy.
+  * Richard Clayton describes a lot of the common challenges involved in implementing a popular strategy.
 * [Egoless Programming](http://blog.codinghorror.com/egoless-programming-you-are-not-your-job/)
- * Jeff Atwood reminds us that "you are not your code".
+  * Jeff Atwood reminds us that "you are not your code".
 * [Applying cardiac alarm management techniques to your on-call](http://fractio.nl/2014/08/26/cardiac-alarms-and-ops/)
- * Lindsay Holmwood applies science to on call rotations!
+  * Lindsay Holmwood applies science to on call rotations!
 * [Disagree And Commit](http://electronicdesign.com/energy/disagree-and-commit-risk-conflict-teams)
- * Don Reinertsen explains a way to use conflict productively in a team.
+  * Don Reinertsen explains a way to use conflict productively in a team.
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
- * Jeff Hodges compiles a hit list of the issues found in distributed systems engineering.
+  * Jeff Hodges compiles a hit list of the issues found in distributed systems engineering.
 * [Towards an understanding of technical debt](http://laughingmeme.org/2016/01/10/towards-an-understanding-of-technical-debt/)
- * Kellan Elliott-McCrea discusses how technical debt may or may not exist.
+  * Kellan Elliott-McCrea discusses how technical debt may or may not exist.
 * [The Process Myth](http://randsinrepose.com/archives/the-process-myth/)
- * Michael Lopp (aka Rands) talks about the why the P-word exists and isn't bad - "processes should reflect your values".
+  * Michael Lopp (aka Rands) talks about the why the P-word exists and isn't bad - "processes should reflect your values".
 * [Runbooks are stupid and you’re doing them wrong](http://holyhandgrenade.org/blog/2011/08/runbooks-are-stupid-and-youre-doing-them-wrong/)
- * Jeff Goldschrafe argues that exceptional states should not be treated exceptionaly.
+  * Jeff Goldschrafe argues that exceptional states should not be treated exceptionaly.
 * [Choose Boring Technology](http://mcfunley.com/choose-boring-technology)
- * Dan McKinley argues that constraints can drive creativity.
+  * Dan McKinley argues that constraints can drive creativity.
 * [Lessons learned from reading postmortems](http://danluu.com/postmortem-lessons/)
- * Dan Luu does science on some of the largest mistakes in the industry.
+  * Dan Luu does science on some of the largest mistakes in the industry.
 * [How One Jira Ticket Made My Employer $1MM/Month](https://medium.com/javascript-scene/how-one-jira-ticket-made-my-employer-1mm-month-7-metrics-that-actually-matter-ffb5b2376a6b) (really 2 separate articles, the jira ticket part is more manager-y vs. the perf. metrics)
 * [Why I Love Reading Other People’s Code And You Should Too](http://www.skorks.com/2010/05/why-i-love-reading-other-peoples-code-and-you-should-too/)
- * Alan Skorkin points out that before mastering something we have to see a lot of examples.
+  * Alan Skorkin points out that before mastering something we have to see a lot of examples.
 * [A Codebase is an Organism](http://www.meltingasphalt.com/a-codebase-is-an-organism/)
- *  Since [codebases inevitably grow over time](https://www.computer.org/csdl/mags/so/2015/02/mso2015020010.pdf), Kevin Simler looks at how to manage that growth.
+  *  Since [codebases inevitably grow over time](https://www.computer.org/csdl/mags/so/2015/02/mso2015020010.pdf), Kevin Simler looks at how to manage that growth.
 * [How to ask good questions](http://jvns.ca/blog/good-questions/)
- * Julia Evans dissects the art of asking a question - although there may be "no such thing as a stupid question", there certainly are poorly asked ones.
+  * Julia Evans dissects the art of asking a question - although there may be "no such thing as a stupid question", there certainly are poorly asked ones.
 
 ## Videos
 
 * [What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320)
- * Greg Wilson both summarizes peer-reviewed research on software development and advocates for doing science about our profession.
+  * Greg Wilson both summarizes peer-reviewed research on software development and advocates for doing science about our profession.
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy), [slides](https://github.com/matthiasn/talk-transcripts/tree/master/Hickey_Rich/SimpleMadeEasy)
- * Rich Hickey discusses simplicity's virtues over easiness'. He showes that while many choose easiness they may end up with complexity, and the better way is to choose easiness along the simplicity path.
+  * Rich Hickey discusses simplicity's virtues over easiness'. He showes that while many choose easiness they may end up with complexity, and the better way is to choose easiness along the simplicity path.
 * [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw)
- * Richard Hamming shares his observations on "why do so few scientists make significant contributions and so many are forgotten in the long run?" Some of the key ideas include: courage, luck, drive, a focus on important problems, open doors, and selling the work.
+  * Richard Hamming shares his observations on "why do so few scientists make significant contributions and so many are forgotten in the long run?" Some of the key ideas include: courage, luck, drive, a focus on important problems, open doors, and selling the work.
 * [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
- * Josh Bloch examines what makes a good (programmtic) API and practices to design them.
+  * Josh Bloch examines what makes a good (programmtic) API and practices to design them.
 
 ## Slides
 
 * [Billion User Load Balancer](https://www.usenix.org/sites/default/files/conference/protected-files/srecon15europe_slides_shuff.pdf)
- * Patrick Shuff talks about Facebook's multi-tiered network.
+  * Patrick Shuff talks about Facebook's multi-tiered network.
 * [Designs, Lessons and Advice from Building Large Distributed Systems](http://www.slideshare.net/xlight/google-designs-lessons-and-advice-from-building-large-distributed-systems/24-Numbers_Everyone_Should_KnowL1_cache)
- * Jeff Dean
+  * Jeff Dean
 * [10 Deploys Per Day](http://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr)
- * In this oldie-but-goodie, John Allspaw talks about some of the fundamental good practices around deployment.
+  * In this oldie-but-goodie, John Allspaw talks about some of the fundamental good practices around deployment.
 
 ## Why
 
