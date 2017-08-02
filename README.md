@@ -69,6 +69,8 @@ _Aka "blog posts"_
   *  Since [codebases inevitably grow over time](https://www.computer.org/csdl/mags/so/2015/02/mso2015020010.pdf), Kevin Simler looks at how to manage that growth.
 * [How to ask good questions](http://jvns.ca/blog/good-questions/)
   * Julia Evans dissects the art of asking a question - although there may be "no such thing as a stupid question", there certainly are poorly asked ones.
+* [Why Averages Suck and Percentiles are Great](https://www.dynatrace.com/blog/why-averages-suck-and-percentiles-are-great/)
+  * Michael Kopp lays out some basics of monitoring.
 
 ## Videos
 
