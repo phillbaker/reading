@@ -71,6 +71,8 @@ _Aka "blog posts"_
   * Julia Evans dissects the art of asking a question - although there may be "no such thing as a stupid question", there certainly are poorly asked ones.
 * [Why Averages Suck and Percentiles are Great](https://www.dynatrace.com/blog/why-averages-suck-and-percentiles-are-great/)
   * Michael Kopp lays out some basics of monitoring.
+* [Logging vs. instrumentation](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html) Also [1](https://medium.com/@copyconstruct/logs-and-metrics-6d34d3026e38) and [2](https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/)
+  * An opinionated piece diffentiating between two related practices. 
 
 ## Videos
 
