@@ -50,6 +50,10 @@ _Aka "blog posts"_
   * Lindsay Holmwood applies science to on call rotations!
 * [Disagree And Commit](http://electronicdesign.com/energy/disagree-and-commit-risk-conflict-teams)
   * Don Reinertsen explains a way to use conflict productively in a team.
+* [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
+  * Simon Tatham breaks down a common source of frustration for both software users and developers - reporting and fixing bugs.
+* [How awesome engineers ask for help](https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7)
+  * Greg Sabo lays out the commonsense (but maybe not always at top of mind) tips and tricks for the (necessary) habit of asking for help.
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
   * Jeff Hodges compiles a hit list of the issues found in distributed systems engineering.
 * [Towards an understanding of technical debt](http://laughingmeme.org/2016/01/10/towards-an-understanding-of-technical-debt/)
