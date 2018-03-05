@@ -76,7 +76,9 @@ _Aka "blog posts"_
 * [Why Averages Suck and Percentiles are Great](https://www.dynatrace.com/blog/why-averages-suck-and-percentiles-are-great/)
   * Michael Kopp lays out some basics of monitoring.
 * [Logging vs. instrumentation](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html) Also [1](https://medium.com/@copyconstruct/logs-and-metrics-6d34d3026e38) and [2](https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/)
-  * An opinionated piece diffentiating between two related practices. 
+  * An opinionated piece diffentiating between two related practices.
+* [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
+  * Mike Wacker (although starting from a link bait title) reviews the testing pyramid.
 
 ## Videos
 
