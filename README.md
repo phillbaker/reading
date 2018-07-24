@@ -75,6 +75,9 @@ _Aka "blog posts"_
   * Julia Evans dissects the art of asking a question - although there may be "no such thing as a stupid question", there certainly are poorly asked ones.
 * [Why Averages Suck and Percentiles are Great](https://www.dynatrace.com/blog/why-averages-suck-and-percentiles-are-great/)
   * Michael Kopp lays out some basics of monitoring.
+* [Monitoring Best Practices Learned from IT Outages](https://www.pagerduty.com/blog/monitoring-best-practices-it-outages/) , [ Zen and the Art of System Monitoring ](https://www.scalyr.com/community/guides/zen-and-the-art-of-system-monitoring)
+  * Vivian Au, in a guest post by DataDog staff on the PagerDuty blog, looks at how to classify and choose data to alert on which to alert. 
+  * Noah Lehmann-Haupt gives a _great_ overview of monitoring and breaks down high level principles for how to approach the problem of making sure your stuff is working.
 * [Logging vs. instrumentation](https://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html) Also [1](https://medium.com/@copyconstruct/logs-and-metrics-6d34d3026e38) and [2](https://grafana.com/blog/2016/01/05/logs-and-metrics-and-graphs-oh-my/)
   * An opinionated piece diffentiating between two related practices.
 * [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
