@@ -83,6 +83,13 @@ _Aka "blog posts"_
 * [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
   * Mike Wacker (although starting from a link bait title) reviews the testing pyramid.
 
+## Practical Basics
+
+_Introductory topics for a software engineering beginning their journey_
+
+* [Debugging and Profiling](https://missing.csail.mit.edu/2020/debugging-profiling/#resource-monitoring) Although formal education provides solid theoretical foundations for a career in software engineering, it neglects a lot of the practical side. This topic from a course at MIT designed to cover the tools of the trade is a short list of the common tools used to debug a running Linux system. This list of tools and the [exercises](https://missing.csail.mit.edu/2020/debugging-profiling/#exercises) are a good to put in your toolbox for when things stop working.
+
+
 ## Videos
 
 * [What We Actually Know About Software Development, and Why We Believe It’s True](https://vimeo.com/9270320)
