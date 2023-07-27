@@ -82,6 +82,8 @@ _Aka "blog posts"_
   * An opinionated piece diffentiating between two related practices.
 * [Just Say No to More End-to-End Tests](https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html)
   * Mike Wacker (although starting from a link bait title) reviews the testing pyramid.
+* [Clear Writing Means Clear Thinking Means…](https://hbr.org/1973/01/clear-writing-means-clear-thinking-means)
+  * A slightly dated, but remarkably relevant argument for the power of writing - a necessary skill in larger technical organizations. 
 
 ## Practical Basics
 
